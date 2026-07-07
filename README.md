@@ -84,6 +84,11 @@ If any monitored parameter exceeds its safety threshold, the valve closes immedi
 
 ---
 
+##Disclaimer
+
+**Note** that the water level sensor used physically in the prototype is not available inside TinkerCad (the software on which I created the circuit diagram), so it was not displayed in the schematic, but you can find its connections to the Arduino pins inside the report. The prototype also showcases the use of a thermistor (temperature sensor) as compared to the LM35 shown in the circuit diagram. The connections also differ here but they are also detailed inside the report.
+
+
 ## Technologies Used
 
 - Arduino Uno
